@@ -3,5 +3,5 @@ Edad: 19 años
 Juegos actuales: Legue of legends
 Juego favorito: Minecfrat
 .
-Carrera
-Especialidad
+Carrera: ingeniería de minas y metalurgia
+Especialidad: NO 
